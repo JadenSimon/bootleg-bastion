@@ -1,6 +1,8 @@
 # Bootleg Bastion LTS: Lies, Tunnels & Sockets
 
-Have you ever needed to deploy code to a machine that has no internet access? Doesn't matter. Because that's exactly what Bootleg Bastion does and you're already here. You can't back out now.
+Have you ever needed to deploy code to a machine that has no internet access? Doesn't matter. Because that's exactly what Bootleg Bastion does and you're already here. 
+
+You can't back out now.
 
 ## The Plan
 
@@ -56,8 +58,6 @@ We also invited Terraform to the party. Kind of. It's actually a fork. So not re
 Resource definitions are themselves resources. Instances of the definitions are... more resources. It's resources all the way down.
 
 Maybe the real Bastion was the infrastructure we connected along the way.
-<sub><sub><sub>hello, world!</sub></sub></sub>
-<sub><sub><sub><sub>hello, world!</sub></sub></sub></sub>
 
 <br>
-<span style="font-family: monospace; font-size: smaller; color: white; background: black; padding: 4px 16px">Connection closed by remote host</span>
+<sub>Connection closed by remote host<sub>
